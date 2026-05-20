@@ -21,11 +21,6 @@ jobs:
           - 4566:4566
         env:
           SERVICES: ec2,s3,iam,sts
-        options: >-
-          --health-cmd "curl -sf http://localhost:4566/_localstack/health"
-          --health-interval 10s
-          --health-timeout 5s
-          --health-retries 15
 
     env:
       AWS_DEFAULT_REGION: us-east-1
