@@ -1,9 +1,9 @@
 # Submission — DevOps Engineer Assignment
 
-**Candidate name:**
-**Email:**
-**Date submitted:**
-**Hours spent (approximate):**
+**Candidate name:** Mohit Attri
+**Email:** mohitattri2005@gmail.com
+**Date submitted:** 22-05-2026
+**Hours spent (approximate):** 8
 
 ## Deliverables checklist
 
